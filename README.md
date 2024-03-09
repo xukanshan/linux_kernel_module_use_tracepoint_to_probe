@@ -1,8 +1,8 @@
-# kernel_module_use_tracepoint
+# linux_kernel_module_use_tracepoint
 
 ## 模块说明：
 
-该代码提供了一个可用的内核模块使用tracepoint示例，并提供了十分详细的代码注释。示例使用的是sched_switch这个tracepoint。
+该代码提供了一个可用的linux内核模块使用tracepoint示例，并提供了十分详细的代码注释。示例使用的是sched_switch这个tracepoint，测试于linux-5.15.77环境。
 
 ## 模块核心原理：
 
